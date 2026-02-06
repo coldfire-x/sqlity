@@ -1,0 +1,14 @@
+.git/**
+.vscode/**
+node_modules/**
+!node_modules/sql.js/**
+src/**
+*.ts
+*.map
+*.log
+*.tgz
+esbuild.mjs
+tsconfig.json
+
+# Keep built output
+!dist/**

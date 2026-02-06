@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run compile:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx vsce package:*)",
+      "WebFetch(domain:code.visualstudio.com)",
+      "Bash(npm run build:*)",
+      "Bash(npm run:*)",
+      "Bash(ls:*)",
+      "Bash(code --install-extension:*)",
+      "Bash(\"/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code\" --install-extension /Users/xuepengfei/playgrounds/sqlity/sqlity-0.1.0.vsix --force)"
+    ]
+  }
+}
